@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5F8A,100:6DB33F&height=200&section=header&text=Ravi%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Developer%20%7C%20Solutions%20Architect&descAlignY=58&descAlign=50" alt="header" />
+</p>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" alt="wave">, I'm Ravi Kumar</h1>
 <h3 align="center">Senior Software Developer · Solutions Architect · Java | Spring Boot | .NET | Azure</h3>
 
 <p align="center">
@@ -13,6 +17,8 @@
 
 ### 🧑‍💻 About Me
 
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" />
+
 - 💼 **Senior Software Developer & Solutions Architect** with deep experience in enterprise application development, support, and architecture
 - 🏗️ Design and build backend services with **Java / Spring Boot** and **C# / .NET**, backed by **SQL Server** and **Azure**
 - ☁️ Hands-on with **cloud-native DevOps**, **VMware infrastructure**, **ETL pipelines**, and identity with **Microsoft Entra ID**
@@ -21,6 +27,18 @@
 - 👯 Open to collaborating on **microservices, cloud architecture, and AI-powered developer tools**
 - 💬 Ask me about **Spring Boot, .NET APIs, SQL Server tuning, Azure, and production support**
 - 📫 Reach me: **your.email@example.com** · [LinkedIn](https://linkedin.com/in/your-profile)
+
+<br clear="right" />
+
+---
+
+### ⚡ Skills at a Glance
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,py,js,ts,azure,docker,kubernetes,githubactions,jenkins,postgres,mysql,redis,linux,git,idea,visualstudio,vscode,postman&perline=11" alt="skills" />
+  </a>
+</p>
 
 ---
 
@@ -111,6 +129,20 @@
   <img src="https://streak-stats.demolab.com?user=balaganiravi-star&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balaganiravi-star&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/balaganiravi-star/balaganiravi-star/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/balaganiravi-star/balaganiravi-star/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/balaganiravi-star/balaganiravi-star/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ### 🤝 Connect With Me
@@ -122,3 +154,7 @@
 </p>
 
 <p align="center"><i>⚡ "Clean code, reliable systems, and zero-downtime deployments."</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:2E5F8A&height=120&section=footer" alt="footer" />
+</p>
